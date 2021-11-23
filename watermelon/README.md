@@ -1,5 +1,5 @@
 # README
 
-## a cute watermelon themefor VSCode!
+## a cute watermelon theme for VSCode!
 
 i love fruits
