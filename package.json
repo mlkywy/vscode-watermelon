@@ -15,12 +15,12 @@
       {
         "label": "Watermelon Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Watermelon Theme-color-theme.json"
+        "path": "./themes/Watermelon-Theme-color-theme.json"
       }
     ]
   },
   "repository": {
-    "url": "https://github.com/alshei/Watermelon-Theme.git",
+    "url": "https://github.com/alshei/Watermelon-Theme",
     "type": "git"
   }
 }
