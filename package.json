@@ -1,26 +1,21 @@
 {
-  "name": "watermelon",
-  "displayName": "Watermelon",
-  "description": "a cute little watermelon theme c:",
-  "publisher": "mlkywy",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.62.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Watermelon Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Watermelon-Theme-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "url": "https://github.com/alshei/Watermelon-Theme",
-    "type": "git"
-  }
+    "name": "watermelon-theme",
+    "displayName": "watermelon-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "watermelon-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/watermelon-theme-color-theme.json"
+            }
+        ]
+    }
 }
