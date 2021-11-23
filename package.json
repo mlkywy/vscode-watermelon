@@ -2,6 +2,7 @@
   "name": "watermelon-theme",
   "displayName": "watermelon-theme",
   "description": "a cute watermelon theme c:",
+  "publisher": "mlkywy",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.62.0"
