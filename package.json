@@ -3,7 +3,7 @@
   "displayName": "watermelon-theme",
   "description": "a cute watermelon theme c:",
   "publisher": "mlkywy",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.62.0"
   },
