@@ -9,7 +9,7 @@
     "vscode": "^1.62.0"
   },
   "repository": {
-    "url": "https://github.com/alshei/watermelon",
+    "url": "https://github.com/alshei/vscode-watermelon",
     "type": "git"
   },
   "categories": [
