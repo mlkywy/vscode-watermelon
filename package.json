@@ -4,7 +4,7 @@
   "description": "A cute and fresh pastel theme for all your coding needs!",
   "icon": "images/watermelon-icon.png",
   "publisher": "mlkywy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.62.0"
   },
