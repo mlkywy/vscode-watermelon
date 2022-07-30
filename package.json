@@ -1,14 +1,15 @@
 {
   "name": "watermelon-theme",
   "displayName": "watermelon-theme",
-  "description": "a cute watermelon theme c:",
+  "description": "A cute and fresh pastel theme for all your coding needs!",
+  "icon": "images/watermelon-icon.png",
   "publisher": "mlkywy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.62.0"
   },
   "repository": {
-    "url": "https://github.com/alshei/Watermelon-Theme",
+    "url": "https://github.com/alshei/vscode-watermelon",
     "type": "git"
   },
   "categories": [
@@ -17,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "watermelon-theme",
+        "label": "watermelon",
         "uiTheme": "vs-dark",
-        "path": "./themes/watermelon-theme-color-theme.json"
+        "path": "./themes/watermelon-theme.json"
       }
     ]
   }
